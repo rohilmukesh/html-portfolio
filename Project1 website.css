@@ -1,0 +1,227 @@
+.webpage{
+
+display: flex;
+/* padding: 18px; */
+background-color: darkgreen;
+height: 50em;
+/* background-image: url(Images/living\ room\ furniture-\ living\ room\ aestheti-c\ living\ room\ inspiration.jpg); */
+background-image: url(Images/living\ 2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.logo{
+width: 20%;
+padding-top: 20px;
+/* padding-left: 25px; */
+padding: 25px;
+/* background-color: green; */
+color: darkorange;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 38px;
+text-align: center;
+font-weight: bold;
+
+
+}
+
+.links{
+width: 45%;
+/* background-color: darkolivegreen; */
+padding: 30px;
+padding-top: 40px;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+text-align: center;
+
+}
+
+.links a{
+text-decoration: none;
+margin-left: 45px;
+color: white;
+
+
+}
+.Search{
+width: 35%;
+padding-top: 30px;
+    text-align: center;
+    /* background-color: darkgreen; */
+    height: 5em;
+    
+}
+.Search input{
+    height: 30px;
+    
+    width: 50%;
+background-color: transparent;
+    border: 1px solid darkorange;
+    border-radius: 3px;
+border-right: none;
+/* position: absolute */
+/* margin-left: 20px ; */
+
+
+}
+.Search input::placeholder{
+/* color: white; */
+padding-left: 7px;
+color: white;
+/* position: absolute; */
+background-color: transparent;
+
+
+}
+.Search button{
+color: white;
+background-color: darkorange;
+border: 1px solid darkorange;
+height: 32px;
+width: 30%;
+/* margin-right: 20px; */
+border-radius: 2px;
+
+
+}
+
+*{
+margin: 0px;
+    padding: 0px;
+}
+
+.heading{
+position: absolute;
+    margin-left: 1.1em;
+    margin-top: 2.5em;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family:inherit;
+    color: white;
+
+}
+.develop{
+
+    color: darkorange;
+}
+.para{
+
+    color: white;
+    position: absolute;
+    margin-top:21em;
+    margin-left: 3.8em;
+    font-size: 18px;
+}
+
+.join{
+margin-top: 27.8em ;
+margin-left: 4.5em;
+position: absolute;
+color: black;
+
+}
+
+.join button{
+background-color: darkorange;
+height: 35px;
+width: 150px;
+border: 1px solid darkorange;
+font-weight: bold;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+
+}
+
+.login{
+position: absolute;
+top: 160px;
+right: 80px;
+height: 350px;
+width: 225px;
+background-color: rgba(0,0,0,0.8);
+padding: 25px;
+
+}
+
+.login h3{
+background-color: white;
+color: darkorange;
+text-align: center;
+/* height: 35px; */
+/* width: 200px; */
+font-family: Arial, Helvetica, sans-serif;
+padding: 5px;
+border-radius: 10px;
+
+}
+.login input{
+
+background: transparent;
+margin-top: 30px;
+width: 100%;
+height: 35px;
+border: none;
+border-bottom: 1px solid darkorange;
+
+}
+.login input::placeholder{
+color: white;
+/* padding: ; */
+
+}
+
+.login button{
+
+width: 100%;
+padding: 9px;
+margin-top: 2em;
+background-color: darkorange;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 16px;
+
+}
+
+.login p{
+color: white;
+text-align: center;
+margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login span{
+
+    color: darkorange;
+    font-weight: bold;
+}
+
+.login p{
+
+    margin-top: 20px;
+    color: white;
+}
+
+.icon i{
+font-size: 28px;
+margin-left: 15px;
+
+
+}
+.icon{
+/* margin-left: 68px; */
+margin-top: 7px;
+/* padding: 10px; */
+
+
+}
+/* .webpage1{
+height: 40em;
+background-image: url(/Images/living\ room\ furniture-\ living\ room\ aestheti-c\ living\ room\ inspiration.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+/* position: absolute; */
+
