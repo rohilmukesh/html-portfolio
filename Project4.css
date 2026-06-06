@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+    height: 40em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/Images/restaurent\ bg\ 2.jpg);
+
+}
+
+.butt button{
+    width: 100px;
+    border: none;
+    font-size: 18px;
+
+}
+
+.slider select{
+    border: none;
+    background-color: transparent;
+}
+
+.head{
+    position: absolute;
+    top: 160px;
+    left: 360px;
+}
+.head h1{
+    font-size: 65px;
+}
+.butn{
+    margin-left: 50px;
+
+}
+
+.head button{
+    border: 1px solid white;
+    background-color: transparent;
+    font-size: 18px;
+
+}
