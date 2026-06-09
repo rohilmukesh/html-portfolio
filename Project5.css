@@ -1,0 +1,32 @@
+
+.navi{    
+    display: flex;
+    background-color:#000015  ;
+}
+
+.logo{
+    font-weight: bold;
+
+}
+
+.links a{
+    margin-left: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.butn button{
+    width: 120px;
+    
+}
+
+.slider{
+    position: absolute;
+    top: 0em;
+    background-color: blueviolet;
+    height: 35em;
+    width: 100%;
+}
+
+
